@@ -14,10 +14,6 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose** for Andro
 - **Kotlin**  
 - **Jetpack Compose**  
 - **Android Studio**  
-
-## 📸 Screenshots  
-*(Add screenshots of your app here after running it on an emulator or device.)*  
-
 ## 🛠️ Installation & Setup  
 1. Clone this repository:  
    ```sh
